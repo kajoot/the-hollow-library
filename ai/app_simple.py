@@ -4,6 +4,7 @@ from datetime import datetime
 
 # ============================================================================
 # THE HOLLOW LIBRARY - STREAMLIT DEMO (NO DATABASE NEEDED)
+# FIXED: House selection now properly tracks state and shows confirmation
 # ============================================================================
 
 st.set_page_config(
